@@ -1,0 +1,3 @@
+http://myuser:password123@127.0.0.1:12345
+http://spikehd:testpass@111.22.33.456:8008
+http://amazonuser:amazonpassword@26.29.66.123:2318008
